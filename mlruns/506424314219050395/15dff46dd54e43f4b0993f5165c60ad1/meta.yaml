@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/amritanshudash/Desktop/ChurnGuard/mlruns/506424314219050395/15dff46dd54e43f4b0993f5165c60ad1/artifacts
+end_time: 1780401678968
+entry_point_name: ''
+experiment_id: '506424314219050395'
+lifecycle_stage: active
+run_id: 15dff46dd54e43f4b0993f5165c60ad1
+run_name: RandomForest_Baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780401671913
+status: 3
+tags: []
+user_id: amritanshudash

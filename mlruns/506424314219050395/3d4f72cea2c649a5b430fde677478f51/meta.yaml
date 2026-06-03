@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/amritanshudash/Desktop/ChurnGuard/mlruns/506424314219050395/3d4f72cea2c649a5b430fde677478f51/artifacts
+end_time: 1780401872931
+entry_point_name: ''
+experiment_id: '506424314219050395'
+lifecycle_stage: active
+run_id: 3d4f72cea2c649a5b430fde677478f51
+run_name: Test_Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780401872907
+status: 3
+tags: []
+user_id: amritanshudash
