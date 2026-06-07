@@ -1,28 +1,8 @@
-# Core Data Science & ML
-numpy
+fastapi
+uvicorn[standard]
 pandas
+numpy
 scikit-learn
-matplotlib
-seaborn
-plotly
-
-# Jupyter (for experimentation)
-jupyter
-notebook
-
-# Utility & Visualization
-tqdm
-joblib
-python-dotenv
-
-# Optional but useful for Churn models
 xgboost
-lightgbm
-catboost
-imbalanced-learn
-
-# For model saving and tracking
 joblib
-
-# Experiment Tracking
-mlflow
+pydantic

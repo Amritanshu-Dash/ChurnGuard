@@ -1,0 +1,9 @@
+artifact_location: file:///Users/amritanshudash/Desktop/ChurnGuard/mlruns/975548083728834980
+creation_time: 1780832404445
+effective_trace_archival_retention: null
+experiment_id: '975548083728834980'
+last_update_time: 1780832404445
+lifecycle_stage: active
+name: ChurnGuard_Baseline
+trace_location: null
+workspace: default
